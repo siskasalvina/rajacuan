@@ -34,7 +34,7 @@ mode tampilan HTML web profile 2.0 | 2022 | Cuansuper
 <p>juga dengan lisensi resmi dan terpercaya, situs rajacuan tidak di ragukan lagi akan membayar utuh semua angka yang sobat menangkan.</p>
 <p>banyak hal yang menguntungkan sobat,  dimana akan sobat alami sendiri, sesaat setalah sobat mendaftar dan bermain.</p>
 <p>sedikit mengenai situs rajacuan dapat di baca di bawah ini.</p>
-<div style="width: 100%; padding-top: 33.3333%; border-radius: 25px; background-size: cover; background-image: url('https://situsbet.net/rajacuan/assets/img/banner/n/agen-bola-sbobet.webp'); background-position: center center;"></div>
+<img src='https://situsbet.net/rajacuan/assets/img/banner/n/agen-bola-sbobet.webp'>
 <p>Cuansuper hadir sejak lama menjadi teman terbaik sobat dengan beragam taruhan sport pilihan yang namanya sudah terdengar sampai setiap blok / kompleks di daerah sobat.</p>
 <div style="width: 100%; padding-top: 33.3333%; border-radius: 25px; background-size: cover; background-image: url('https://situsbet.net/rajacuan/assets/img/banner/n/cs24jam.webp'); background-position: center center;"></div>
 <p>Cuansuper mengerti dengan kebutuhan sobat, sehingga memilah bandar yang tepat untuk sobat dengan pelayan maksimal 24/7 jam setiap hari dan setiap tahunnya.</p>
