@@ -16,7 +16,7 @@ sched = BlockingScheduler()
 def main():
   current_api = 10
 
-  for i in range(current_api):
+  for i in range(current_api+1):
     try:
       LOADING = None
       start_time = time.time()
