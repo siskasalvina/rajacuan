@@ -22,6 +22,7 @@ for i in range(current_api):
     HOST = f"http://{}-{}.herokuapp.com/ping".format("ping-00", i)
     with Halo(text = f'{i} Pinging {HOST} Started at {time.ctime()} [{start_time}]', text_color = "green", spinner = 'dots', placement = "right") as LOADING:			
       assert requests.get(HOST).status_code == 200, ""
+      i+=1
       LOADING = None
     end_time = time.time()
     finished_time = end_time - start_time
