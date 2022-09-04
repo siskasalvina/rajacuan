@@ -20,7 +20,7 @@ def main():
     try:
       LOADING = None
       start_time = time.time()
-      HOST = f"http://{}-{}.herokuapp.com/ping".format("ping-00", i)
+      HOST = "http://{}-{}.herokuapp.com/ping".format("ping-00", i)
       with Halo(text = f'{i} Pinging {HOST} Started at {time.ctime()} [{start_time}]', text_color = "green", spinner = 'dots', placement = "right") as LOADING:			
         assert requests.get(HOST).status_code == 200, ""
         i+=1
