@@ -37,7 +37,7 @@ def restart():
     headers = {
       'Content-Type': 'application/json',
       'Accept': 'application/vnd.heroku+json; version=3',
-      'Authorization': token
+      'Authorization': 'Bearer '+ token
     }
 
     response = requests.delete(baseurl, headers=headers)
